@@ -1,0 +1,16 @@
+**/node_modules
+**/dist
+**/docs
+**/test-results
+*.config.js
+**/config/app-config
+**/__test__/expected-files/*
+**/src/libs
+/libs
+/generators
+
+
+node_modules
+build
+storybook-static
+rollup.config.js
